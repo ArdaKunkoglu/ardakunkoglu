@@ -10,4 +10,5 @@ Hi, I'm Arda 👋
 - .NET
 
   ##  Contact
-  www.linkedin.com/in/arda-kunkoğlu-0b80183b2
+  
+https://www.linkedin.com/in/ardakunkoglu
